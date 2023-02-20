@@ -1,3 +1,3 @@
 # ComputerVision
 
-Computer vision code dump. To be organized into differnt repositories later.
+Computer vision code dump. To be organized into different repositories later.
